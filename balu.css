@@ -1,3 +1,7 @@
 .header {
 	text-align: center;
 }
+
+.post img {
+	max-width: 300px;
+}
