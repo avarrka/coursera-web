@@ -5,3 +5,7 @@
 .post img {
 	max-width: 300px;
 }
+
+.post p {
+	max-width: 600px;
+}
