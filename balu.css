@@ -6,6 +6,17 @@
 	max-width: 300px;
 }
 
+.post h2 {
+	text-align: center;
+}
+
 .post p {
+	max-width: 600px;
+}
+
+.post {
+	/*width: 1264px;
+	margin: 100px; */
+	margin: 0 auto;
 	max-width: 600px;
 }
