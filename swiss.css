@@ -1,9 +1,10 @@
 .header {
-	text-align: center;
+	text-align: left;
 }
 
 .post img {
 	max-width: 200px;
+	border: 100px;
 }
 
 .post h2 {
@@ -17,3 +18,23 @@
 .post img {
 	align-self:
 }
+.container {
+	 width: 100%;
+  max-width: 1024px; 
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+nav {
+  float: right;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block; /*один из способов разместить элементы в строку*/
+}
+
+
