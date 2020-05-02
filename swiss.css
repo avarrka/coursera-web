@@ -25,10 +25,11 @@ html, body, div {
   width: 100%;
 }
 .container {
-	 width: 100%;
+	width: 100%;
   max-width: 1024px; 
   padding: 0 15px;
   margin: 0 auto;
+  display: block;
 }
 
 nav {
