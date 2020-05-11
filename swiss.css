@@ -5,6 +5,10 @@ html, body, div {
 
 .header {
 	text-align: left;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
 }
 
 .post img {
